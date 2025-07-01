@@ -2,11 +2,8 @@
 
 ## Overview
 
-**Project Name:** AI-Driven Crop Disease Prediction and Management System  
+**Project Name:** AI-Driven Crop Disease Prediction and Management System(KrishiRakshak)  
 **Track:** Agriculture, FoodTech & Rural Development  
-**Submitted for:** Smart India Hackathon (SIH) 2024  
-**Sponsored by:** Indian Council of Agricultural Research (ICAR)  
-**Ministry:** Ministry of Agriculture and Farmers Welfare
 
 ---
 
@@ -113,15 +110,3 @@ The project focuses on building a **mobile and web-based application** that uses
 5. Open a pull request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For further information or queries, please reach out to us at:  
-**Project Lead:** Soumya Chakraborty  
-**Email:** [soumyachakraborty198181@gmail.com](mailto:soumyachakraborty198181@gmail.com)
